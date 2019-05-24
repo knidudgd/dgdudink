@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 //import logo from './logo.svg';
 import './styles/App.css';
-
-import { Landing } from "./components/Landing";
 import { Menu } from "./components/Menu"
 import ProjectCarousel from './components/ProjectCarousel';
 
@@ -15,6 +13,9 @@ class App extends Component {
           <Menu/>
           <ProjectCarousel/>
         </header>
+        <footer className="App-footer">
+          © 2019 Daniel Dudink - 
+        </footer>
       </div>
     );
   }
