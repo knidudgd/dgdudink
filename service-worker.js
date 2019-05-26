@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/knidudgd/dgdudink/precache-manifest.462cb4838cf45808e44d50101e6719f7.js"
+  "/dgdudink/precache-manifest.b515484da6d18475ef800df0820b8979.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/knidudgd/dgdudink/index.html", {
+workbox.routing.registerNavigationRoute("/dgdudink/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
