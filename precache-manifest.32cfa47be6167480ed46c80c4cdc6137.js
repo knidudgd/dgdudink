@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/dgdudink/static/media/Proj2Pic.ba8a4990.png"
   },
   {
-    "revision": "b5fd0478ad36b4441e09",
+    "revision": "207d49b715bc29478af7",
     "url": "/dgdudink/static/css/main.3bf5a0f5.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/dgdudink/static/media/TemporaryPic.90b28350.png"
   },
   {
-    "revision": "3a2b056e91df41982157",
-    "url": "/dgdudink/static/js/2.a9839802.chunk.js"
+    "revision": "ba370876f8a1b717cca4",
+    "url": "/dgdudink/static/js/2.a22ee57a.chunk.js"
   },
   {
     "revision": "7fb99744eaccae943d5adf537b5b3a93",
     "url": "/dgdudink/static/media/LinkedInLogo.7fb99744.png"
   },
   {
-    "revision": "b5fd0478ad36b4441e09",
-    "url": "/dgdudink/static/js/main.7298472c.chunk.js"
+    "revision": "207d49b715bc29478af7",
+    "url": "/dgdudink/static/js/main.2482eaaf.chunk.js"
   },
   {
     "revision": "99b6d27482804f40580c20b655b8c779",
@@ -40,11 +40,11 @@ self.__precacheManifest = [
     "url": "/dgdudink/static/media/Proj4Pic.a05a1abb.png"
   },
   {
-    "revision": "3a2b056e91df41982157",
+    "revision": "ba370876f8a1b717cca4",
     "url": "/dgdudink/static/css/2.3f54c157.chunk.css"
   },
   {
-    "revision": "d9809e2e6d532e5ead87257e387fae24",
+    "revision": "3e4ec5ed35fd42cc42b28fddb8518f02",
     "url": "/dgdudink/index.html"
   }
 ];
