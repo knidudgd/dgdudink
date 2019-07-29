@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/dgdudink/static/media/LinkedInLogo.7fb99744.png"
   },
   {
-    "revision": "f893a0ddf95a8adc00b5",
-    "url": "/dgdudink/static/css/main.10ca49c5.chunk.css"
+    "revision": "9a275574c733d574d4e3",
+    "url": "/dgdudink/static/css/main.b3cb0fd8.chunk.css"
   },
   {
     "revision": "bc8695f1a103a603fa58",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/dgdudink/static/media/TemporaryPic.90b28350.png"
   },
   {
-    "revision": "f893a0ddf95a8adc00b5",
+    "revision": "9a275574c733d574d4e3",
     "url": "/dgdudink/static/js/main.888c6f37.chunk.js"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/dgdudink/static/css/2.3f54c157.chunk.css"
   },
   {
-    "revision": "87afff149773fe61b611b4ffabeae76e",
+    "revision": "7f2285b3091a4a190ce7956efbbb4245",
     "url": "/dgdudink/index.html"
   }
 ];
